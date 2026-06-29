@@ -55,10 +55,10 @@ Everything runs locally in your browser, so your data never leaves your computer
 ---
 
 ## Web Tool Demo
-<img src="https://imgur.com/Zu4Rcgm"></img>
+<img src="https://i.imgur.com/Zu4Rcgm.gif"></img>
 
 ## Chrome Extension Demo
-<img src="https://imgur.com/a/5ckh1Ba"></img>
+<img src="https://i.imgur.com/2wEGWWf.gif"></img>
 
 ---
 
