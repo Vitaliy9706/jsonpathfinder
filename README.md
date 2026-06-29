@@ -54,6 +54,14 @@ Everything runs locally in your browser, so your data never leaves your computer
 
 ---
 
+## Web Tool Demo
+<img src="https://imgur.com/Zu4Rcgm"></img>
+
+## Chrome Extension Demo
+<img src="https://imgur.com/a/5ckh1Ba"></img>
+
+---
+
 ## Supported Path Formats
 
 Generate paths in multiple formats including:
@@ -69,9 +77,3 @@ $.user.profile.name
 JSONPath (Bracket)
 $['user']['profile']['name']
 
----
-## Web Tool Demo
-<img src="https://imgur.com/Zu4Rcgm"></img>
-
-## Chrome Extension Demo
-<img src="https://imgur.com/a/5ckh1Ba"></img>
